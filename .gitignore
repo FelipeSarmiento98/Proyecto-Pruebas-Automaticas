@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Ghost-specific config file
+config.development.json
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Yarn directory (if you're using Yarn)
+.yarn/
+
+# Optional, if you're using npm and want to ignore package-lock.json in development
+# You may want to commit this file in production to lock down dependency versions
+# Uncomment the line below if you wish to ignore it
+# package-lock.json
+
